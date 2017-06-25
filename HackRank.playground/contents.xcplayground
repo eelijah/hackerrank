@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios'>
+    <pages>
+        <page name='Untitled Page'/>
+        <page name='Untitled Page 2'/>
+        <page name='Diagonal Difference'/>
+        <page name='Plus Minus'/>
+        <page name='Staircase'/>
+        <page name='MiniMax Sujm'/>
+        <page name='Birthday cake Candle'/>
+        <page name='Time Conversion'/>
+        <page name='grading'/>
+        <page name='Library Fine'/>
+        <page name='Grading Students'/>
+        <page name='CamelCase'/>
+        <page name='StringReduce'/>
+    </pages>
+</playground>
